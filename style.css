@@ -141,7 +141,6 @@ html{
       }
       .introbox1{
         display: flex;
-        width: 400px;
         flex-direction: column;
         gap: 10px;
         height: fit-content;
@@ -267,10 +266,10 @@ html{
         width: 362px;
         height: 293px;
       }
-      .clients:hover{
+     /** .clients:hover{
         border: 2px solid black;
         border-radius: 16px;
-      }
+      }**/
       .portfolio{
         background-color: #2FB9C4;
         display: flex;

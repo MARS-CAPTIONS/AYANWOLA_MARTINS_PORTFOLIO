@@ -38,7 +38,6 @@
 
   .introbox1{
       display: flex;
-      width: 400px;
       flex-direction: column;
       justify-content: center;
       align-items: center;
