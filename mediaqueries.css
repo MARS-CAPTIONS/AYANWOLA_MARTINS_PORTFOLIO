@@ -1,0 +1,1630 @@
+
+@media screen and (max-width: 1400px) {
+
+  .headnav {
+    display: none;
+  }
+
+  #hamburger-nav {
+    display: flex;
+    align-items: center;
+  }
+
+/**  .menu-links open{
+    max-height: 100px;
+  }
+
+  .menu-links-text{
+    font-size: 0.8rem;
+  }**/
+
+  .logo1{
+    font-family: "Urbanist", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 1.5rem;
+  }
+
+  .introbox{
+      display: flex;
+      margin-top: auto;
+      gap: 40px;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      height: fit-content;
+  }
+
+  .introbox1{
+      display: flex;
+      width: 400px;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      gap: 10px;
+      height: fit-content;
+  }
+
+  .inhead{
+    width: auto;
+    text-align: center;
+    font-size: 2rem;
+  }
+
+  .insmalltext{
+    font-size: 1rem;
+    }
+
+    .testimonials{
+      padding: 30px 50px;
+      margin-left: auto;
+      align-items: center;
+    }
+    .testimonialsbox{
+      flex-direction: column;
+      gap: 70px;
+      justify-content: center;
+    }
+    .testimonialstext{
+      font-size: 1rem;
+      text-align: center;
+    }
+    .testimg{
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-direction: column;
+    }
+    .testitext1{
+      font-size: 2rem;
+    }
+    .testbox1, .testbox2, .testbox3{
+      width: 100%;
+      max-width: 314px;
+      justify-content: center;
+      align-items: center;
+    }
+    .testbox1text {
+      font-size: 1.5rem;
+      height: auto;
+      text-align: center;
+    }
+  
+    
+}
+
+@media screen and (max-width: 1300px) {
+  .portfolio{
+    row-gap: 200px;
+  }
+  .portfoliotext{
+    padding: 30px 10px;
+    font-size: 1rem;
+  }
+  .text2{
+    font-size: 1.75rem;
+    font-weight: 600;
+  }
+  .frontendimg{
+    display: none;
+  }
+  .frontend-row1{
+    flex-wrap: wrap;
+    justify-content: center;
+    flex-direction: column-reverse;
+  }
+  .htmlbox{
+    width: 100%;
+    max-width: 300px;
+    height: 350px;
+    gap: 100px;
+    border-radius: 20px;
+  }
+  .htmlimg{
+    width: 50px;
+  }
+  .htmlcon2{
+    gap: 20px;
+  }
+  .icon{
+    width: 50px;
+  }
+  .htext1{
+    font-size: 3rem;
+  }
+  .htext2{
+    display: none;
+    font-size: 1rem;
+    text-align: center;
+    font-weight: 200;
+  }
+  .cssbox{
+    width: 100%;
+    max-width: 300px;
+    height: 350px;
+    gap: 100px;
+    border-radius: 20px;
+  }
+  .jsbox{
+    width: 100%;
+    max-width: 300px;
+    height: 350px;
+    gap: 100px;
+    border-radius: 20px;
+  }
+  .frontendbox{
+    max-width: 768.7px;
+    height: 300px;
+    border-radius: 30px;
+  }
+  .frontendboxcon{
+    margin: 0px;
+    width: auto;
+    padding: 0px 30px;
+  }
+  .frontendboxtext, .uiboxtext{
+    font-size: 1.25rem;
+  }
+  .fbox-text-2{
+    font-size: 3rem;
+    font-weight: 900;
+  }
+
+  .introcta2-1{
+    width: 100%;
+    max-width: 150px;
+    padding: 10px 10px;
+    font-size: 1.5rem;
+  }
+  .row2-box1{
+    width: 100%;
+    justify-content: center; 
+  }
+  /**ui bento**/
+  .uibox1{
+    max-width: 768.7px;
+    height: 300px;
+    border-radius: 30px;
+  }
+  .ui-row1-1{
+    flex-wrap: wrap;
+    justify-content: center;
+    flex-direction: column;
+  }
+  .uiboxcon{
+    margin: 0px;
+    width: auto;
+    padding: 0px 30px;
+  }
+  .uibox-text-2{
+    font-size: 3rem;
+    font-weight: 900;
+  }
+  .figmabox{
+    width: 100%;
+    max-width: 300px;
+    height: 350px;
+    gap: 100px;
+    border-radius: 20px;
+  }
+  .figmaimg{
+    width: 50px;
+  }
+  .figmacon2{
+    gap: 20px;
+  }
+  .icon{
+    width: 50px;
+  }
+  .figtext1{
+    font-size: 3rem;
+  }
+  .figtext2{
+    display: none;
+    font-size: 1rem;
+    text-align: center;
+    font-weight: 200;
+  }
+  .ui-row1-box1{
+    width: 100%;
+    justify-content: center; 
+  }
+  .ui-row2-box1{
+    width: 100%;
+    justify-content: center; 
+  }
+  .adobebox{
+    width: 100%;
+    max-width: 300px;
+    height: 350px;
+    gap: 100px;
+    border-radius: 20px;
+  }
+  .framerbox{
+    width: 100%;
+    max-width: 300px;
+    height: 350px;
+    gap: 100px;
+    border-radius: 20px;
+  }
+
+  /**project**/
+  .project-box{
+    max-width: 600px;
+    height: 300px;
+    border-radius: 30px;
+    justify-content: center;
+    align-items: flex-start;
+  }
+  .projectboxcon{
+    margin: 0px;
+    width: auto;
+    padding: 0px 30px;
+  }
+  .projectboxtext{
+    font-size: 1.25rem;
+  }
+  .pbox-text-2{
+    font-size: 3rem;
+    font-weight: 900;
+  }
+  .project-row2{
+    flex-wrap: wrap;
+    justify-content: center;
+    flex-direction: column-reverse;
+  }
+  .pro-row1-box1{
+    width: 100%;
+    justify-content: center;
+    flex-wrap: wrap; 
+  }
+  .project-row1{
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .contact{
+    padding: 30px 50px;
+  }
+
+  .contact-text{
+    font-size: 1.2rem;
+    padding: 0px;
+  }
+
+  .contact-text-1{
+    font-size: 1.5rem;
+  }
+
+  .contactbox{
+    width: auto;
+    flex-direction: column;
+  }
+
+  .emailbox{
+    width: 100%;
+    max-width: 314px;
+    border-radius: 30px;
+    height: auto;
+    gap: 20px;
+    padding: 20px;
+  }
+
+  .contact-icon{
+    width: 100%;
+    max-width: 35px;
+  }
+
+  .mail-text-1{
+    font-size: 1.2rem;
+  }
+
+  .mail-link{
+    font-size: 0.8rem;
+  }
+
+
+  .whatsappbox{
+    width: 100%;
+    max-width: 314px;
+    border-radius: 30px;
+    height: auto;
+    padding: 20px;
+    gap: 40px;
+  }
+
+  .whatsapp-icon{
+    width: 50px;
+  }
+
+  .whatsapp-text-1{
+    font-size: 2rem;
+  }
+
+  .whatsapp-link{
+    font-size: 1rem;
+  }
+
+  .instabox{
+    width: 100%;
+    max-width: 314px;
+    border-radius: 30px;
+    height: auto;
+    gap: 20px;
+    padding: 20px;
+  }
+
+  .insta-text-1{
+    font-size: 1.2rem;
+  }
+
+  .insta-link{
+    font-size: 0.8rem;
+  }
+
+  .social-box{
+    padding: auto;
+  }
+
+  .social-text{
+    font-size: 1.2rem;
+    text-align: center;
+  }
+
+  .social-links{
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 50px;
+  }
+
+  .social-icon{
+    width: 15px;
+    height: 15px;
+  }
+
+  .social-links1, .footer-nav1{
+    font-size: 1rem;
+  }
+  .last{
+    margin-left: 0px;
+  }
+  .last-text{
+    text-align: center;
+  }
+    
+}
+
+@media screen and (max-width: 1024px) {
+
+  .logo1{
+    font-family: "Urbanist", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 1rem;
+  }
+
+  .introbox{
+    margin: 60px auto;
+    gap: 100px;
+  }
+
+  .inhead{
+    font-size: 3rem;
+  }
+  .insmalltext{
+    font-size: 1.5rem;
+  }
+  .introcta1, .introcta2{
+    font-size: 0.95rem;
+    width: 100px;
+    height: 25px;
+    padding: 10px 10px;
+    border: 2px solid black;
+    border-radius: 70px;
+  }
+
+  .heroimg{
+    width: 100%;
+    max-width: 240px;
+  }
+
+  .herobentobox{
+    width: 100% ;
+    max-width: 600px;
+  }
+  .expimg{
+    width: 40px;
+  }
+  .exprience{
+    width: 200px;
+    height: 200px;
+  }
+  .exprience:hover{
+    border: 2px solid black;
+    border-radius: 10px;
+  }
+  .project{
+    width: 200px;
+    height: 200px;  
+    border-radius: 10px;
+  }
+  .protext{
+    text-align: center;
+    font-size: 1.5rem;
+  }
+  .expertise{
+    width: 200px;
+    height: 200px;
+    border-radius: 10px;
+  }
+
+  .exptext{
+    font-size: 1.5rem;
+    text-align: center;
+  }
+  .clients{
+    width: 200px;
+    height: 200px;
+  }
+  .clients:hover{
+    border: 2px solid black;
+    border-radius: 10px;
+  }
+  
+  .portfolio{
+    row-gap: 200px;
+  }
+  .portfoliotext{
+    padding: 30px 10px;
+    font-size: 1rem;
+  }
+  .text2{
+    font-size: 1.75rem;
+    font-weight: 600;
+  }
+  .frontendimg{
+    display: none;
+  }
+  .frontend-row1{
+    flex-wrap: wrap;
+    justify-content: center;
+    flex-direction: column-reverse;
+  }
+  .htmlbox{
+    width: 100%;
+    max-width: 300px;
+    height: 350px;
+    gap: 100px;
+    border-radius: 20px;
+  }
+  .htmlimg{
+    width: 50px;
+  }
+  .htmlcon2{
+    gap: 20px;
+  }
+  .icon{
+    width: 50px;
+  }
+  .htext1{
+    font-size: 3rem;
+  }
+  .htext2{
+    display: none;
+    font-size: 1rem;
+    text-align: center;
+    font-weight: 200;
+  }
+  .cssbox{
+    width: 100%;
+    max-width: 300px;
+    height: 350px;
+    gap: 100px;
+    border-radius: 20px;
+  }
+  .jsbox{
+    width: 100%;
+    max-width: 300px;
+    height: 350px;
+    gap: 100px;
+    border-radius: 20px;
+  }
+  .frontendbox{
+    max-width: 768.7px;
+    height: 300px;
+    border-radius: 30px;
+  }
+  .frontendboxcon{
+    margin: 0px;
+    width: auto;
+    padding: 0px 30px;
+  }
+  .frontendboxtext, .uiboxtext{
+    font-size: 1.25rem;
+  }
+  .fbox-text-2{
+    font-size: 3rem;
+    font-weight: 900;
+  }
+
+  .introcta2-1{
+    width: 100%;
+    max-width: 150px;
+    padding: 10px 10px;
+    font-size: 1.5rem;
+  }
+  .row2-box1{
+    width: 100%;
+    justify-content: center; 
+  }
+  /**ui bento**/
+  .uibox1{
+    max-width: 768.7px;
+    height: 300px;
+    border-radius: 30px;
+  }
+  .ui-row1-1{
+    flex-wrap: wrap;
+    justify-content: center;
+    flex-direction: column;
+  }
+  .uiboxcon{
+    margin: 0px;
+    width: auto;
+    padding: 0px 30px;
+  }
+  .uibox-text-2{
+    font-size: 3rem;
+    font-weight: 900;
+  }
+  .figmabox{
+    width: 100%;
+    max-width: 300px;
+    height: 350px;
+    gap: 100px;
+    border-radius: 20px;
+  }
+  .figmaimg{
+    width: 50px;
+  }
+  .figmacon2{
+    gap: 20px;
+  }
+  .icon{
+    width: 50px;
+  }
+  .figtext1{
+    font-size: 3rem;
+  }
+  .figtext2{
+    display: none;
+    font-size: 1rem;
+    text-align: center;
+    font-weight: 200;
+  }
+  .ui-row1-box1{
+    width: 100%;
+    justify-content: center; 
+  }
+  .ui-row2-box1{
+    width: 100%;
+    justify-content: center; 
+  }
+  .adobebox{
+    width: 100%;
+    max-width: 300px;
+    height: 350px;
+    gap: 100px;
+    border-radius: 20px;
+  }
+  .framerbox{
+    width: 100%;
+    max-width: 300px;
+    height: 350px;
+    gap: 100px;
+    border-radius: 20px;
+  }
+
+  /**project**/
+  .project-box{
+    max-width: 600px;
+    height: 300px;
+    border-radius: 30px;
+    justify-content: center;
+    align-items: flex-start;
+  }
+  .projectboxcon{
+    margin: 0px;
+    width: auto;
+    padding: 0px 30px;
+  }
+  .projectboxtext{
+    font-size: 1.25rem;
+  }
+  .pbox-text-2{
+    font-size: 3rem;
+    font-weight: 900;
+  }
+  .project-row2{
+    flex-wrap: wrap;
+    justify-content: center;
+    flex-direction: column-reverse;
+  }
+  .pro-row1-box1{
+    width: 100%;
+    justify-content: center;
+    flex-wrap: wrap; 
+  }
+  .project-row1{
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .testimonials{
+    padding: 30px 50px;
+    margin-left: auto;
+    align-items: center;
+  }
+  .testimonialsbox{
+    flex-direction: column;
+    gap: 70px;
+    justify-content: center;
+  }
+  .testimonialstext{
+    font-size: 10px;
+    text-align: center;
+  }
+  .testimg{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  }
+  .testitext1{
+    font-size: 1.5rem;
+  }
+  .testbox1, .testbox2, .testbox3{
+    width: 100%;
+    max-width: 314px;
+    justify-content: center;
+    align-items: center;
+  }
+  .testbox1text {
+    width: 100%;
+    font-size: 1rem;
+    height: auto;
+    text-align: center;
+  }
+
+
+  .contact{
+    padding: 30px 50px;
+  }
+
+  .contact-text{
+    font-size: 1.2rem;
+    padding: 0px;
+  }
+
+  .contact-text-1{
+    font-size: 1.5rem;
+  }
+
+  .contactbox{
+    width: auto;
+    flex-direction: column;
+  }
+
+  .emailbox{
+    width: 100%;
+    max-width: 314px;
+    border-radius: 30px;
+    height: auto;
+    gap: 20px;
+    padding: 20px;
+  }
+
+  .contact-icon{
+    width: 100%;
+    max-width: 35px;
+  }
+
+  .mail-text-1{
+    font-size: 1.2rem;
+  }
+
+  .mail-link{
+    font-size: 0.8rem;
+  }
+
+
+  .whatsappbox{
+    width: 100%;
+    max-width: 314px;
+    border-radius: 30px;
+    height: auto;
+    padding: 20px;
+    gap: 40px;
+  }
+
+  .whatsapp-icon{
+    width: 50px;
+  }
+
+  .whatsapp-text-1{
+    font-size: 2rem;
+  }
+
+  .whatsapp-link{
+    font-size: 1rem;
+  }
+
+  .instabox{
+    width: 100%;
+    max-width: 314px;
+    border-radius: 30px;
+    height: auto;
+    gap: 20px;
+    padding: 20px;
+  }
+
+  .insta-text-1{
+    font-size: 1.2rem;
+  }
+
+  .insta-link{
+    font-size: 0.8rem;
+  }
+
+  .social-box{
+    padding: auto;
+  }
+
+  .social-text{
+    font-size: 1.2rem;
+    text-align: center;
+  }
+
+  .social-links{
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 50px;
+  }
+
+  .social-icon{
+    width: 15px;
+    height: 15px;
+  }
+
+  .social-links1, .footer-nav1{
+    font-size: 1rem;
+  }
+  .last{
+    margin-left: 0px;
+  }
+  .last-text{
+    text-align: center;
+  }
+}
+
+@media screen and (max-width: 600px) {
+
+  .logo1{
+    font-family: "Urbanist", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 1rem;
+  }
+  .heroimg{
+    width: 100%;
+    max-width: 240px;
+  }
+
+  .herobentobox{
+    width: 100% ;
+    max-width: 400px;
+  }
+  .expimg{
+    width: 25px;
+  }
+  .exprience{
+    width: 130px;
+    height: 130px;
+  }
+  .exprience:hover{
+    border: 2px solid black;
+    border-radius: 10px;
+  }
+  .project{
+    width: 130px;
+    height: 130px;  
+    border-radius: 10px;
+  }
+  .protext{
+    text-align: center;
+    font-size: 1rem;
+  }
+  .expertise{
+    width: 130px;
+    height: 130px;
+    border-radius: 10px;
+  }
+
+  .exptext{
+    font-size: 1rem;
+  }
+  .clients{
+    width: 130px;
+    height: 130px;
+  }
+  .clients:hover{
+    border: 2px solid black;
+    border-radius: 10px;
+  }
+  .introbox{
+    margin: 50px auto;
+    gap: 50px;
+  }
+  .introcta1, .introcta2{
+    font-size: 0.8rem;
+    width: 100px;
+    height: 25px;
+    padding: 10px 10px;
+    border: 2px solid black;
+    border-radius: 70px;
+  }
+  .portfolio{
+    row-gap: 50px;
+  }
+  .portfoliotext{
+    padding: 30px 10px;
+    font-size: 0.5rem;
+  }
+  .text2{
+    font-size: 1rem;
+    font-weight: 600;
+  }
+  .frontendimg{
+    display: none;
+  }
+  .frontend-row1{
+    flex-wrap: wrap;
+    justify-content: center;
+    flex-direction: column-reverse;
+  }
+  .htmlbox{
+    width: 100%;
+    max-width: 150px;
+    height: 200px;
+    gap: 50px;
+    border-radius: 20px;
+  }
+  .htmlimg{
+    width: 25px;
+  }
+  .htmlcon2{
+    gap: 10px;
+  }
+  .icon{
+    width: 25px;
+  }
+  .htext1{
+    font-size: 1.5rem;
+  }
+  .htext2{
+    display: none;
+    font-size: 1rem;
+    text-align: center;
+    font-weight: 200;
+  }
+  .cssbox{
+    width: 100%;
+    max-width: 150px;
+    height: 200px;
+    gap: 50px;
+    border-radius: 20px;
+  }
+  .jsbox{
+    width: 100%;
+    max-width: 150px;
+    height: 200px;
+    gap: 50px;
+    border-radius: 20px;
+  }
+  .frontendbox{
+    width: 100%;
+    max-width: 314px;
+    height: 300px;
+    border-radius: 30px;
+  }
+  .frontendboxcon{
+    margin: 0px;
+    width: auto;
+    padding: 0px 20px;
+  }
+  .frontendboxtext, .uiboxtext{
+    font-size: 1rem;
+  }
+  .fbox-text-2{
+    font-size: 2rem;
+    font-weight: 900;
+  }
+  .star1{
+    width: 100%;
+    max-width: 75px;
+  }
+  .introcta2-1{
+    width: 100%;
+    max-width: 150px;
+    padding: 10px 10px;
+    font-size: 1rem;
+  }
+  .row2-box1{
+    width: 100%;
+    justify-content: center; 
+  }
+  /**ui bento**/
+  .uibox1{
+    width: 100%;
+    max-width: 314px;
+    height: 300px;
+    border-radius: 30px;
+  }
+  .ui-row1-1{
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .uiboxcon{
+    margin: 0px;
+    width: auto;
+    padding: 0px 20px;
+  }
+  .uibox-text-2{
+    font-size: 2rem;
+    font-weight: 900;
+  }
+  .figmabox{
+    width: 100%;
+    max-width: 150px;
+    height: 200px;
+    gap: 50px;
+    border-radius: 20px;
+  }
+  .figmaimg{
+    width: 25px;
+  }
+  .figmacon2{
+    gap: 10px;
+  }
+  .icon{
+    width: 30px;
+  }
+  .figtext1{
+    font-size: 1.5rem;
+  }
+  .figtext2{
+    display: none;
+    font-size: 1rem;
+    text-align: center;
+    font-weight: 200;
+  }
+  .ui-row1-box1{
+    width: 100%;
+    justify-content: center; 
+  }
+  .ui-row2-box1{
+    width: 100%;
+    justify-content: center; 
+  }
+  .adobebox{
+    width: 100%;
+    max-width: 150px;
+    height: 200px;
+    gap: 50px;
+    border-radius: 20px;
+  }
+  .framerbox{
+    width: 100%;
+    max-width: 150px;
+    height: 200px;
+    gap: 50px;
+    border-radius: 20px;
+  }
+
+  /**project**/
+  .project-box{
+    width: 100%;
+    max-width: 314px;
+    height: 300px;
+    border-radius: 30px;
+    justify-content: center;
+  }
+  .projectboxcon{
+    margin: 0px;
+    width: auto;
+    padding: 0px 20px;
+  }
+  .projectboxtext, .uiboxtext{
+    font-size: 1rem;
+  }
+  .pbox-text-2{
+    font-size: 2rem;
+    font-weight: 900;
+  }
+  .project-row2{
+    flex-wrap: wrap;
+    justify-content: center;
+    flex-direction: column-reverse;
+  }
+  .pro-row1-box1{
+    width: 100%;
+    justify-content: center;
+    flex-wrap: wrap; 
+  }
+  .project-row1{
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .testimonials{
+    padding: 30px 50px;
+    margin-left: auto;
+    align-items: center;
+  }
+  .testimonialsbox{
+    flex-direction: column;
+    gap: 70px;
+    justify-content: center;
+  }
+  .testimonialstext{
+    font-size: 10px;
+    text-align: center;
+  }
+  .testimg{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  }
+  .testitext1{
+    font-size: 1.5rem;
+  }
+  .testbox1, .testbox2, .testbox3{
+    width: 100%;
+    max-width: 314px;
+    justify-content: center;
+    align-items: center;
+  }
+  .testbox1text {
+    width: 100%;
+    font-size: 1rem;
+    height: auto;
+    text-align: center;
+  }
+
+
+  .contact{
+    padding: 30px 50px;
+  }
+
+  .contact-text{
+    font-size: 1.2rem;
+    padding: 0px;
+  }
+
+  .contact-text-1{
+    font-size: 1.5rem;
+  }
+
+  .contactbox{
+    width: auto;
+    flex-direction: column;
+  }
+
+  .emailbox{
+    width: 100%;
+    max-width: 314px;
+    border-radius: 30px;
+    height: auto;
+    gap: 20px;
+    padding: 20px;
+  }
+
+  .contact-icon{
+    width: 100%;
+    max-width: 35px;
+  }
+
+  .mail-text-1{
+    font-size: 1.2rem;
+  }
+
+  .mail-link{
+    font-size: 0.8rem;
+  }
+
+
+  .whatsappbox{
+    width: 100%;
+    max-width: 314px;
+    border-radius: 30px;
+    height: auto;
+    padding: 20px;
+    gap: 40px;
+  }
+
+  .whatsapp-icon{
+    width: 50px;
+  }
+
+  .whatsapp-text-1{
+    font-size: 2rem;
+  }
+
+  .whatsapp-link{
+    font-size: 1rem;
+  }
+
+  .instabox{
+    width: 100%;
+    max-width: 314px;
+    border-radius: 30px;
+    height: auto;
+    gap: 20px;
+    padding: 20px;
+  }
+
+  .insta-text-1{
+    font-size: 1.2rem;
+  }
+
+  .insta-link{
+    font-size: 0.8rem;
+  }
+
+  .social-box{
+    padding: auto;
+  }
+
+  .social-text{
+    font-size: 1.2rem;
+    text-align: center;
+  }
+
+  .social-links{
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 50px;
+  }
+
+  .social-icon{
+    width: 15px;
+    height: 15px;
+  }
+
+  .social-links1, .footer-nav1{
+    font-size: 1rem;
+  }
+  .last{
+    margin-left: 0px;
+  }
+  .last-text{
+    text-align: center;
+  }
+}
+  
+@media screen and (max-width: 480px) {
+
+  .logo1{
+    font-family: "Urbanist", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 1rem;
+  }
+
+  .inhead{
+    font-size: 2rem;
+  }
+  .insmalltext{
+    font-size: 1rem;
+  }
+
+  .heroimg{
+    width: 100%;
+    max-width: 240px;
+  }
+
+  .herobentobox{
+    width: 100% ;
+    max-width: 400px;
+  }
+  .expimg{
+    width: 25px;
+  }
+  .exprience{
+    width: 130px;
+    height: 130px;
+  }
+  .exprience:hover{
+    border: 2px solid black;
+    border-radius: 10px;
+  }
+  .project{
+    width: 130px;
+    height: 130px;  
+    border-radius: 10px;
+  }
+  .protext{
+    text-align: center;
+    font-size: 1rem;
+  }
+  .expertise{
+    width: 130px;
+    height: 130px;
+    border-radius: 10px;
+  }
+
+  .exptext{
+    font-size: 1rem;
+  }
+  .clients{
+    width: 130px;
+    height: 130px;
+  }
+  .clients:hover{
+    border: 2px solid black;
+    border-radius: 10px;
+  }
+  .introbox{
+    margin: 50px auto;
+    gap: 50px;
+  }
+  .introcta1, .introcta2{
+    font-size: 0.8rem;
+    width: 100px;
+    height: 25px;
+    padding: 10px 10px;
+    border: 2px solid black;
+    border-radius: 70px;
+  }
+  .portfolio{
+    row-gap: 50px;
+  }
+  .portfoliotext{
+    padding: 30px 10px;
+    font-size: 0.5rem;
+  }
+  .text2{
+    font-size: 1rem;
+    font-weight: 600;
+  }
+  .frontendimg{
+    display: none;
+  }
+  .frontend-row1{
+    flex-wrap: wrap;
+    justify-content: center;
+    flex-direction: column-reverse;
+  }
+  .htmlbox{
+    width: 100%;
+    max-width: 150px;
+    height: 200px;
+    gap: 50px;
+    border-radius: 20px;
+  }
+  .htmlimg{
+    width: 25px;
+  }
+  .htmlcon2{
+    gap: 10px;
+  }
+  .icon{
+    width: 25px;
+  }
+  .htext1{
+    font-size: 1.5rem;
+  }
+  .htext2{
+    display: none;
+    font-size: 1rem;
+    text-align: center;
+    font-weight: 200;
+  }
+  .cssbox{
+    width: 100%;
+    max-width: 150px;
+    height: 200px;
+    gap: 50px;
+    border-radius: 20px;
+  }
+  .jsbox{
+    width: 100%;
+    max-width: 150px;
+    height: 200px;
+    gap: 50px;
+    border-radius: 20px;
+  }
+  .frontendbox{
+    width: 100%;
+    max-width: 314px;
+    height: 300px;
+    border-radius: 30px;
+  }
+  .frontendboxcon{
+    margin: 0px;
+    width: auto;
+    padding: 0px 20px;
+  }
+  .frontendboxtext, .uiboxtext{
+    font-size: 1rem;
+  }
+  .fbox-text-2{
+    font-size: 2rem;
+    font-weight: 900;
+  }
+  .star1{
+    width: 100%;
+    max-width: 75px;
+  }
+  .introcta2-1{
+    width: 100%;
+    max-width: 150px;
+    padding: 10px 10px;
+    font-size: 1rem;
+  }
+  .row2-box1{
+    width: 100%;
+    justify-content: center; 
+  }
+  /**ui bento**/
+  .uibox1{
+    width: 100%;
+    max-width: 314px;
+    height: 300px;
+    border-radius: 30px;
+  }
+  .ui-row1-1{
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .uiboxcon{
+    margin: 0px;
+    width: auto;
+    padding: 0px 20px;
+  }
+  .uibox-text-2{
+    font-size: 2rem;
+    font-weight: 900;
+  }
+  .figmabox{
+    width: 100%;
+    max-width: 150px;
+    height: 200px;
+    gap: 50px;
+    border-radius: 20px;
+  }
+  .figmaimg{
+    width: 25px;
+  }
+  .figmacon2{
+    gap: 10px;
+  }
+  .icon{
+    width: 30px;
+  }
+  .figtext1{
+    font-size: 1.5rem;
+  }
+  .figtext2{
+    display: none;
+    font-size: 1rem;
+    text-align: center;
+    font-weight: 200;
+  }
+  .ui-row1-box1{
+    width: 100%;
+    justify-content: center; 
+  }
+  .ui-row2-box1{
+    width: 100%;
+    justify-content: center; 
+  }
+  .adobebox{
+    width: 100%;
+    max-width: 150px;
+    height: 200px;
+    gap: 50px;
+    border-radius: 20px;
+  }
+  .framerbox{
+    width: 100%;
+    max-width: 150px;
+    height: 200px;
+    gap: 50px;
+    border-radius: 20px;
+  }
+
+  /**project**/
+  .project-box{
+    width: 100%;
+    max-width: 314px;
+    height: 300px;
+    border-radius: 30px;
+    justify-content: center;
+  }
+  .projectboxcon{
+    margin: 0px;
+    width: auto;
+    padding: 0px 20px;
+  }
+  .projectboxtext, .uiboxtext{
+    font-size: 1rem;
+  }
+  .pbox-text-2{
+    font-size: 2rem;
+    font-weight: 900;
+  }
+  .project-row2{
+    flex-wrap: wrap;
+    justify-content: center;
+    flex-direction: column-reverse;
+  }
+  .pro-row1-box1{
+    width: 100%;
+    justify-content: center;
+    flex-wrap: wrap; 
+  }
+  .project-row1{
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .testimonials{
+    padding: 30px 50px;
+    margin-left: auto;
+    align-items: center;
+  }
+  .testimonialsbox{
+    flex-direction: column;
+    gap: 70px;
+    justify-content: center;
+  }
+  .testimonialstext{
+    font-size: 10px;
+    text-align: center;
+  }
+  .testimg{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  }
+  .testitext1{
+    font-size: 1.5rem;
+  }
+  .testbox1, .testbox2, .testbox3{
+    width: 100%;
+    max-width: 314px;
+    justify-content: center;
+    align-items: center;
+  }
+  .testbox1text {
+    width: 100%;
+    font-size: 1rem;
+    height: auto;
+    text-align: center;
+  }
+
+
+  .contact{
+    padding: 30px 50px;
+  }
+
+  .contact-text{
+    font-size: 1.2rem;
+    padding: 0px;
+  }
+
+  .contact-text-1{
+    font-size: 1.5rem;
+  }
+
+  .contactbox{
+    width: auto;
+    flex-direction: column;
+  }
+
+  .emailbox{
+    width: 100%;
+    max-width: 314px;
+    border-radius: 30px;
+    height: auto;
+    gap: 20px;
+    padding: 20px;
+  }
+
+  .contact-icon{
+    width: 100%;
+    max-width: 35px;
+  }
+
+  .mail-text-1{
+    font-size: 1.2rem;
+  }
+
+  .mail-link{
+    font-size: 0.8rem;
+  }
+
+
+  .whatsappbox{
+    width: 100%;
+    max-width: 314px;
+    border-radius: 30px;
+    height: auto;
+    padding: 20px;
+    gap: 40px;
+  }
+
+  .whatsapp-icon{
+    width: 50px;
+  }
+
+  .whatsapp-text-1{
+    font-size: 2rem;
+  }
+
+  .whatsapp-link{
+    font-size: 1rem;
+  }
+
+  .instabox{
+    width: 100%;
+    max-width: 314px;
+    border-radius: 30px;
+    height: auto;
+    gap: 20px;
+    padding: 20px;
+  }
+
+  .insta-text-1{
+    font-size: 1.2rem;
+  }
+
+  .insta-link{
+    font-size: 0.8rem;
+  }
+
+  .social-box{
+    padding: auto;
+  }
+
+  .social-text{
+    font-size: 1.2rem;
+    text-align: center;
+  }
+
+  .social-links{
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 50px;
+  }
+
+  .social-icon{
+    width: 15px;
+    height: 15px;
+  }
+
+  .social-links1, .footer-nav1{
+    font-size: 1rem;
+  }
+  .last{
+    margin-left: 0px;
+  }
+  .last-text{
+    text-align: center;
+  }
+}
+  
+
