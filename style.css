@@ -608,12 +608,11 @@ html{
         height: 500;
       }
       .project-row2{
-        gap: 14px;
         display: flex;
         flex-direction: row;
-        height: 500;
+        gap: 14px;
       }
-      .pro-row1-box1{
+      .pro-row1-box1, .pro-row2-box1{
         gap: 14px;
         display: flex;
         flex-direction: row;
@@ -629,8 +628,72 @@ html{
         flex-direction: column;
         justify-content: center;
         align-items: center;
-        row-gap: 40px;
+        row-gap: 20px;
         
+      }
+
+      .imgcontain{
+        background-image: url(./portassets/tablet-in-hand-mockup.png);
+        background-position: center;
+        background-size: cover;
+        background-repeat: no-repeat;
+        width: 250px;
+        height: 300px;
+        border-radius: 30px; 
+      }
+
+      .imgcontain-1{
+        background-image: url(./portassets/freepik__candid-image-photography-natural-textures-highly-r__32402.jpeg);
+        background-position: center;
+        background-size: cover;
+        background-repeat: no-repeat;
+        width: 250px;
+        height: 300px;
+        border-radius: 30px; 
+      }
+
+      .imgcontain-2{
+        background-image: url(./portassets/english-book-resting-table-working-space.jpg);
+        background-position: center;
+        background-size: cover;
+        background-repeat: no-repeat;
+        width: 250px;
+        height: 300px;
+        border-radius: 30px; 
+      }
+
+      .imgcontain-3{
+        background-image: url(./portassets/img\ 2\ 22.jpeg);
+        background-position: center;
+        background-size: cover;
+        background-repeat: no-repeat;
+        width: 250px;
+        height: 300px;
+        border-radius: 30px; 
+      }
+
+
+      .probox-text{
+        font-family: "Urbanist", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: 600;
+        font-style: normal;
+        font-size: 1.75rem;
+      }
+
+      .probox-link{
+        border: 2px solid black;
+        background-color: black;
+        border-radius: 33px;
+        text-align: center;
+        align-content: center;
+        font-family: "Urbanist", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: 600;
+        font-style: normal;
+        font-size: 20px;
+        color: white;
+        padding: 14px 60px;
       }
 
       /**end of project**/

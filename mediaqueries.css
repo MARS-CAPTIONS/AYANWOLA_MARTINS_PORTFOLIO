@@ -1056,10 +1056,11 @@
     justify-content: center;
     flex-direction: column-reverse;
   }
-  .pro-row1-box1{
+  .pro-row1-box1, .pro-row2-box1{
     width: 100%;
     justify-content: center;
     flex-wrap: wrap; 
+    flex-direction: column;
   }
   .project-row1{
     flex-wrap: wrap;
