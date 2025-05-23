@@ -47,6 +47,13 @@ html{
         color: rgb(0, 0, 0);
         font-size: 16px;
       }
+    .logo1 {
+        font-family: "Urbanist", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: 400;
+        font-style: normal;
+        font-size: 1.5rem;
+    }
 
       /* HAMBURGER MENU */
 
@@ -643,7 +650,7 @@ html{
       }
 
       .imgcontain-1{
-        background-image: url(./portassets/Real\ estate\ creative\ ads.jpeg);
+        background-image: url(./portassets/light\ dao.jpg);
         background-position: center;
         background-size: cover;
         background-repeat: no-repeat;
@@ -653,7 +660,7 @@ html{
       }
 
       .imgcontain-2{
-        background-image: url(./portassets/english-book-resting-table-working-space.jpg);
+        background-image: url(./portassets/portfoli.jpg);
         background-position: center;
         background-size: cover;
         background-repeat: no-repeat;
@@ -663,7 +670,7 @@ html{
       }
 
       .imgcontain-3{
-        background-image: url(./portassets/trip\ pre.jpg);
+        background-image: url(./portassets/actually\,\ the\ best\ gift\ you\ could\ have\ given\,\ was….jpeg);
         background-position: center;
         background-size: cover;
         background-repeat: no-repeat;

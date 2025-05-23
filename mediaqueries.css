@@ -1204,6 +1204,9 @@
 
   .social-links1, .footer-nav1{
     font-size: 1rem;
+    display: flex;
+    justify-items: center;
+    align-items: center;
   }
   .last{
     margin-left: 0px;
